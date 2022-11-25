@@ -1,0 +1,8 @@
+{
+  "api":[{
+    "base_url": "https://growsolutions.in/www/MyPhotoKeyboard/",
+    "New_theme":"NewApiWithPwd/getNewThemes.php",
+    "Today_theme":"NewApiWithPwd/gettodaytheme.php",
+    "Trending_theme":"NewApiWithPwd/getTrendingThemes.php"
+  }]
+}
